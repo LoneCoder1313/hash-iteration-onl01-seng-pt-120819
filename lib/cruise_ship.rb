@@ -13,4 +13,5 @@ passengers.each do |suite, name|
    puts winner = "Amanda Presley"
   end
 end 
+winner 
 end 
