@@ -16,5 +16,8 @@ end
    if age_appropriate_birthday <= 26 
      puts "Happy Birthday #{kids_name}! You are now #{age}"
      while age_appropriate_birthday = 27 
-     puts 
+     puts "Happy Birthday #{kids_name}! You are now #{age} years old!\nHappy Birthday #{name}! You are now #{age} years old!\nYou are too old for this."
+   end 
+ end 
+ end 
    
