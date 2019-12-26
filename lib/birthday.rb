@@ -5,7 +5,7 @@
 # }
 
 def happy_birthday(birthday_kids)
-   birthday_kids.object_id
+   
 end
 
 
