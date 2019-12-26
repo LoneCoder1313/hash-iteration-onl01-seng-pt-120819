@@ -15,5 +15,6 @@ end
     age_appropriate_birthday.each do |kids_name,age|
    if age_appropriate_birthday <= 26 
      puts "Happy Birthday #{kids_name}! You are now #{age}"
-     
+     while age_appropriate_birthday = 27 
+     puts 
    
